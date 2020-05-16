@@ -1,0 +1,12 @@
+C:\Users\BeLL4\Desktop\string2int\string2int\bin\Debug\netcoreapp3.1\string2int.exe
+C:\Users\BeLL4\Desktop\string2int\string2int\bin\Debug\netcoreapp3.1\string2int.deps.json
+C:\Users\BeLL4\Desktop\string2int\string2int\bin\Debug\netcoreapp3.1\string2int.runtimeconfig.json
+C:\Users\BeLL4\Desktop\string2int\string2int\bin\Debug\netcoreapp3.1\string2int.runtimeconfig.dev.json
+C:\Users\BeLL4\Desktop\string2int\string2int\bin\Debug\netcoreapp3.1\string2int.dll
+C:\Users\BeLL4\Desktop\string2int\string2int\bin\Debug\netcoreapp3.1\string2int.pdb
+C:\Users\BeLL4\Desktop\string2int\string2int\obj\Debug\netcoreapp3.1\string2int.csproj.CoreCompileInputs.cache
+C:\Users\BeLL4\Desktop\string2int\string2int\obj\Debug\netcoreapp3.1\string2int.AssemblyInfoInputs.cache
+C:\Users\BeLL4\Desktop\string2int\string2int\obj\Debug\netcoreapp3.1\string2int.AssemblyInfo.cs
+C:\Users\BeLL4\Desktop\string2int\string2int\obj\Debug\netcoreapp3.1\string2int.dll
+C:\Users\BeLL4\Desktop\string2int\string2int\obj\Debug\netcoreapp3.1\string2int.pdb
+C:\Users\BeLL4\Desktop\string2int\string2int\obj\Debug\netcoreapp3.1\string2int.genruntimeconfig.cache
